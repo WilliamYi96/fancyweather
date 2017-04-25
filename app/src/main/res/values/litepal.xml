@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <litepal>
+
+        <dbname value="fancy_weather" > </dbname>
+
+        <version value="1" > </version>
+
+        <list>
+            <mapping class="com.android.fancyweather.williamyi.fancyweather.db.Province"> </mapping>
+            <mapping class="com.android.fancyweather.williamyi.fancyweather.db.City"> </mapping>
+            <mapping class="com.android.fancyweather.williamyi.fancyweather.db.County"> </mapping>
+        </list>
+
+    </litepal>
+</resources>
